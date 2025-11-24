@@ -1,0 +1,70 @@
+{
+  "prices": [
+    {
+      "full_price": 51000000.0,
+      "discount_price": 5100000.0,
+      "discount_percentage": 90.0,
+      "product_name": "کنسول بازی سونی مدل PlayStation 5 Slim Digital Edition ظرفیت یک ترابایت"
+    },
+    {
+      "full_price": 219000000.0,
+      "discount_price": 21900000.0,
+      "discount_percentage": 90.0,
+      "product_name": "گوشی موبایل اپل iPhone 17 Promax ZA/A ظرفیت 256 گیگابایت"
+    },
+    {
+      "full_price": 197500000.0,
+      "discount_price": 19750000.0,
+      "discount_percentage": 90.0,
+      "product_name": "موتور سیکلت کبیر طرح هوندا کلیک اتاق قدیم 170 سی سی سال 1404"
+    },
+    {
+      "full_price": 1300000.0,
+      "discount_price": 130000.0,
+      "discount_percentage": 90.0,
+      "product_name": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949"
+    },
+    {
+      "full_price": 135000000.0,
+      "discount_price": 13500000.0,
+      "discount_percentage": 90.0,
+      "product_name": "موبایل سامسونگ S25 اولترا / حافظه ۲۵۶"
+    },
+    {
+      "full_price": 53000.0,
+      "discount_price": 5300.0,
+      "discount_percentage": 90.0,
+      "product_name": "قرص مکیدنی ویتامین ث توتی فروتی دوبیس"
+    },
+    {
+      "full_price": 12100000.0,
+      "discount_price": 1210000.0,
+      "discount_percentage": 90.0,
+      "product_name": "مودم TF-5G G1 ایرانسل"
+    },
+    {
+      "full_price": 1925000.0,
+      "discount_price": 192500.0,
+      "discount_percentage": 90.0,
+      "product_name": "پلاک طلا مروارید پرورشی"
+    },
+    {
+      "full_price": 545000.0,
+      "discount_price": 54500.0,
+      "discount_percentage": 90.0,
+      "product_name": "شکلات صبحانه نوتلا لهستان 350گرم"
+    },
+    {
+      "full_price": 160000000.0,
+      "discount_price": 16000000.0,
+      "discount_percentage": 90.0,
+      "product_name": "پیانو دیجیتال یاماها Yamaha P145 B طرح آکوستیک"
+    },
+    {
+      "full_price": 13000000.0,
+      "discount_price": 1300000.0,
+      "discount_percentage": 90.0,
+      "product_name": "موبایل سامسونگ مدل Galaxy A16 4G | حافظه 128"
+    }
+  ]
+}
