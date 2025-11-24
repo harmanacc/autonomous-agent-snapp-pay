@@ -61,9 +61,22 @@ browser = Browser(
 
 
 llm = ChatOpenAI(
-    model='x-ai/grok-4.1-fast',  # Or 'x-ai/grok-4.1-fast' as in your log
     base_url='https://openrouter.ai/api/v1',
     api_key=os.getenv('OPENROUTER_API_KEY'),
+    # model='x-ai/grok-4.1-fast',
+    # model='x-ai/grok-4-fast',
+    model='openai/gpt-oss-120b',
+    # model='qwen/qwen3-coder-30b-a3b-instruct',
+    # model='google/gemini-2.0-flash-001',
+    # model='google/gemini-2.5-flash-lite',
+    # model='openai/gpt-4o-mini',
+    # model='openai/gpt-5-mini',
+    # model='openai/gpt-oss-20b',
+    # model='openai/gpt-5-nano',
+    # model='minimax/minimax-m2',
+    # model='z-ai/glm-4.6',
+    # model='meta-llama/llama-4-scout',
+    # model='qwen/qwen3-32b',
 )
 
 
